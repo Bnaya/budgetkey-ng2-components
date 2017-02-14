@@ -6,9 +6,7 @@
   "module": "./dist/BudgetKeyCommon.module.js",
   "jsnext:main": "./dist/BudgetKeyCommon.module.js",
   "scripts": {
-    "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
-    "watch": "tsc -p src -w",
-    "build": "rm -rf lib && tsc -p src"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -31,13 +29,15 @@
     "@angular/compiler": "^2.4.2",
     "@angular/compiler-cli": "^2.4.2",
     "@angular/core": "^2.4.2",
-    "core-js": "^2.4.1",
     "rollup": "^0.41.4",
     "rxjs": "^5.0.3",
     "typescript": "^2.1.4"
   },
   "peerDependencies": {
-    "@angular/core": ">=2.0.0"
+    "@angular/core": ">=2.0.0",
+    "bootstrap-rtl": "3.4.0",
+    "bootstrap": "^3.3.4"
   },
-  "dependencies": {}
+  "dependencies": {
+  }
 }
