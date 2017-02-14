@@ -1,6 +1,6 @@
 footer {
     padding-top: 5px;
-    /*height: ${Layout.footerHeight}px;*/
+    height: 80px;
     width: 100%;
     overflow:hidden;
     background-color: #ffffff;
@@ -18,7 +18,7 @@ footer {
     position: absolute;
     left: 0px;
     text-align: left;
-    /*height: ${Layout.footerHeight}px;*/
+    height: 80px;
 }
 
 .inner-text {

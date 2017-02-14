@@ -37,7 +37,8 @@
   "peerDependencies": {
     "@angular/core": ">=2.0.0",
     "bootstrap-rtl": "3.4.0",
-    "bootstrap": "^3.3.4"
+    "bootstrap": "^3.3.4",
+    "normalize.css": "5.0.0"
   },
   "dependencies": {
   }
