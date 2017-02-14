@@ -2,12 +2,11 @@ import {Component, ViewEncapsulation} from '@angular/core';
 
 @Component({
     selector: 'budgetkey-container',
-    encapsulation: ViewEncapsulation.None,
+    encapsulation: ViewEncapsulation.Emulated,
     styleUrls: [
-        './AppContainerComponent.css'
+        '../src/AppContainerComponent.css'
     ],
-    styles: [],
-    templateUrl: './AppContainerComponent.html'
+    templateUrl: '../src/AppContainerComponent.html'
 })
 export class AppContainerComponent {
 }

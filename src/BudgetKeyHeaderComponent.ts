@@ -1,13 +1,11 @@
 import {Component} from '@angular/core';
 
-import {Colors, Layout} from './constants'
-
 @Component({
     selector: 'budgetkey-header',
     styleUrls: [
-      './BudgetKeyHeaderComponent.css'
+      '../src/BudgetKeyHeaderComponent.css'
     ],
-    templateUrl: './BudgetKeyHeaderComponent.html'
+    templateUrl: '../src/BudgetKeyHeaderComponent.html'
 })
 
 export class BudgetKeyHeaderComponent {

@@ -3,9 +3,9 @@ import {Component} from '@angular/core';
 @Component({
     selector: 'budgetkey-footer',
     styleUrls: [
-        './BudgetKeyFooterComponent.css'
+        '../src/BudgetKeyFooterComponent.css'
     ],
-    templateUrl: './BudgetKeyFooterComponent.html'
+    templateUrl: '../src/BudgetKeyFooterComponent.html'
 })
 
 export class BudgetKeyFooterComponent {

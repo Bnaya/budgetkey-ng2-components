@@ -6,7 +6,8 @@
   "module": "./dist/BudgetKeyCommon.module.js",
   "jsnext:main": "./dist/BudgetKeyCommon.module.js",
   "scripts": {
-    "build": "tsc"
+    "build": "rm -fr dist && ngc",
+    "prepublish": "npm run build"
   },
   "repository": {
     "type": "git",
