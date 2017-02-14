@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    display: block;
+    margin: 0;
+    font-family: "Alef Hebrew", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+.app {
+    direction: rtl;
+    min-height: 100%;
+    /*margin-top: ${-Layout.headerHeight}px;*/
+    /*margin-bottom: ${-Layout.footerHeight-6}px;*/
+    /*padding-top: ${Layout.headerHeight}px;*/
+    /*padding-bottom: ${Layout.footerHeight}px;*/
+    width: 100%;
+}
+
+.app:after {
+    content: "";
+    display: block;
+    /*height: ${Layout.footerHeight + 'px'};*/
+}
