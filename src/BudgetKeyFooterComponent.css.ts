@@ -1,3 +1,4 @@
+export default `
 footer {
     padding-top: 5px;
     height: 80px;
@@ -24,3 +25,4 @@ footer {
 .inner-text {
     margin-top: 16px;
 }
+`;

@@ -1,4 +1,4 @@
-html, body {
+export default `html, body {
     height: 100%;
     display: block;
     margin: 0;
@@ -9,4 +9,4 @@ html, body {
     height: 100%;
     display: flex;
     flex-direction: column;
-}
+}`

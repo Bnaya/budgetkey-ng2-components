@@ -1,3 +1,4 @@
+export default `
 header {
     height: 56px;
 }
@@ -37,3 +38,4 @@ margin-top: 0;
     line-height: 40px;
     padding-bottom: 19px;
 }
+`;

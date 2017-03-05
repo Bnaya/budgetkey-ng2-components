@@ -1,3 +1,4 @@
+export default `
 <header class="site-nav">
     <nav class="navbar navbar-default" role="navigation">
         <div class="container-fluid">
@@ -30,4 +31,4 @@
             </div>
         </div>
     </nav>
-</header>
+</header>`;

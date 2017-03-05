@@ -2,6 +2,7 @@
   "name": "budgetkey-ng2-components",
   "version": "0.0.5",
   "description": "Common Components for BudgetKey",
+  "types": "./dist/BudgetKeyCommon.module.d.ts",
   "main": "./dist/BudgetKeyCommon.module.js",
   "module": "./dist/BudgetKeyCommon.module.js",
   "jsnext:main": "./dist/BudgetKeyCommon.module.js",
