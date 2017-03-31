@@ -1,6 +1,6 @@
 import {Component, ViewEncapsulation} from '@angular/core';
-import template from './AppContainerComponent.html';
-import style from './AppContainerComponent.css';
+import {template} from './AppContainerComponent.html';
+import {style} from './AppContainerComponent.css';
 
 @Component({
     selector: 'budgetkey-container',

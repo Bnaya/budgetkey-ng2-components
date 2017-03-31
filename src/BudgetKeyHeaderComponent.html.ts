@@ -1,4 +1,4 @@
-export default `
+export const template =  `
 <header class="site-nav">
     <nav class="navbar navbar-default" role="navigation">
         <div class="container-fluid">

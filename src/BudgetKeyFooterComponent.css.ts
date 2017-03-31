@@ -1,4 +1,4 @@
-export default `
+export const style = `
 footer {
     padding-top: 5px;
     height: 80px;

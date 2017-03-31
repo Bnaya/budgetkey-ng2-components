@@ -1,4 +1,4 @@
-export default `<footer class="footer">
+export const template =  `<footer class="footer">
     <div class="inner-footer">
         <div class="inner-text">
             <div>מפתח התקציב</div>

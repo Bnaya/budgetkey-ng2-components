@@ -1,4 +1,4 @@
-export default `
+export const style = `
 header {
     height: 56px;
 }

@@ -1,6 +1,6 @@
 import {Component} from '@angular/core';
-import template from './BudgetKeyFooterComponent.html';
-import style from './BudgetKeyFooterComponent.css';
+import {template} from './BudgetKeyFooterComponent.html';
+import {style} from './BudgetKeyFooterComponent.css';
 
 @Component({
     selector: 'budgetkey-footer',

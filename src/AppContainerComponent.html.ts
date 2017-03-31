@@ -1,4 +1,4 @@
-export default `<budgetkey-header></budgetkey-header>
+export const template =  `<budgetkey-header></budgetkey-header>
 <div class="app">
     <ng-content></ng-content>
 </div>

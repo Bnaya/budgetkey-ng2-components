@@ -1,4 +1,4 @@
-export default `html, body {
+export const style = `html, body {
     height: 100%;
     display: block;
     margin: 0;
